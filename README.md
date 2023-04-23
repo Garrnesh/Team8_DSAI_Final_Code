@@ -1,5 +1,6 @@
 # Lab137_Team8_DSAI_Final_Code
-This is our project on breast cancer prediction.
+# Overview
+Our project aims to improve breast cancer prediction on whether the diagnosis is malignant or benign. We performed exploratory data analysis to help us better visualise the data and clean it for the training of our models. We also used 4 different machine models and a few model metrics to pick our choice of model.
 
 # File Description
 
