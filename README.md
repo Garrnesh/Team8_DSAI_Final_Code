@@ -16,6 +16,8 @@ Our project aims to improve breast cancer prediction on whether the diagnosis is
 2. Data visualisation
 3. Heatmap and correlation
 
+We dropped the columns that are unncessary for the training of our models and did standard scaling to scale the larger values so that the models are not dominated by it. We also found out through violin plots of individual variables that those variables with easily separable values could mean that the variables have some predictive power for classification. Through using a heatmap, we also found out which are the highly correlated variables to diagnosis as they are the stronger predictors.
+
 # Machine Learning Models
 1. Decision Tree
 2. Random Forest
@@ -23,6 +25,9 @@ Our project aims to improve breast cancer prediction on whether the diagnosis is
 4. Support Vector Machine
 
 We used 4 model metrics to pick our final model. Accuracy, Precision, Recall and F1 Score. The Accuracy and Recall metrics are the more important ones as it tells us the percentage of data that are classified accurately and the percentage of true positives (cancer being detected as malignant correctly).
+
+# What we learnt from this project
+* Cleaning of unnecessary data
 
 # Contributions
 
