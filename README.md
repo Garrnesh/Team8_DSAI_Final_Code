@@ -11,9 +11,6 @@ Our project aims to improve breast cancer prediction on whether the diagnosis is
 2. "Machine_Learning_Models.ipynb" contains our training of our Machine Learning Models
 3. "cancer.csv" is the CSV file of our dataset.
 
-# Dataset
-
-
 # Exploratory Data Analysis (Contributed by Bryan and Qi Bin)
 1. Data Cleaning
 2. Data visualisation
