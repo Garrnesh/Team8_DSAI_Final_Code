@@ -10,12 +10,19 @@ Our project aims to improve breast cancer prediction on whether the diagnosis is
 
 # Dataset
 
+
 # Exploratory Data Analysis
 1. Data Cleaning
 2. Data visualisation
 3. Heatmap and correlation
 
-# Machine Learning
+# Machine Learning Models
+1. Decision Tree
+2. Random Forest
+3. Logistic Regression
+4. Support Vector Machine
+
+We used 4 model metrics to pick our final model. Accuracy, Precision, Recall and F1 Score. The Accuracy and Recall metrics are the more important ones as it tells us the percentage of data that are classified accurately and the percentage of true positives (cancer being detected as malignant correctly).
 
 # Contributions
 
