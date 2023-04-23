@@ -6,3 +6,8 @@ Team 8 Lab A137 Final Code Submission
 "Machine_Learning_Models.ipynb" contains our training of our Machine Learning Models
 
 "cancer.csv" is the CSV file of our dataset
+
+#Exploratory Data Analysis
+1. Data Cleaning
+2. Data visualisation
+3. Heatmap and correlation
