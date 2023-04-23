@@ -30,9 +30,9 @@ We dropped the columns that are unncessary for the training of our models and di
 We used 4 model metrics to pick our final model. Accuracy, Precision, Recall and F1 Score. The Accuracy and Recall metrics are the more important ones as it tells us the percentage of data that are classified accurately and the percentage of true positives (cancer being detected as malignant correctly). Using those metrics we found that logistic regression yields the best results for Accuracy and Recall. 
 
 # What we learnt from this project
-1.Cleaning of unnecessary data
-2.Standard scaling to scale large values
-3.Heatmap to find highly correlated variables
+1. Cleaning of unnecessary data
+2. Standard scaling to scale large values
+3. Heatmap to find highly correlated variables
 
 
 # Contributions
