@@ -27,15 +27,15 @@ We dropped the columns that are unncessary for the training of our models and di
 For the decision tree, we used a RandomSearchCV to be able to find the most optimal depth of our tree, so that our model will be able to perform optimally.
 We identified that a depth of 3 is the most optimal depth and used it in the model and obtained the required metrics.
 
-3. Random Forest
+2. Random Forest
 
 For the random forest, we used a RandomSearchCV to be able to find the optimal depth of tree and optimal number of trees. The optimal depth was 10 and the number of trees were 340. We then used it in the model and obtained the required metrics.
 
-5. Logistic Regression
+3. Logistic Regression
 
 For the logistic regression, we used a GridSearchCV instead to do a full extensive search for the most optimal hyperparameter combination. For this model we tuned the "C" hyperparameter, which is regularisaiton strength, and obtained the solver used to optimise our loss function. The hyperparameters were 0.1 and "liblinear" respectively. We then built the model and obtained the required metrics.
 
-7. Support Vector Machine
+4. Support Vector Machine
 
 For SVM, we also used a GridSearchCV to tune the hyperparameters which are the "C" value and the kernal, which is used to determine how the data will be transformed into a higher-dimensional feature space. The hyperparameters were 1 and "rbf" respectively
 
@@ -53,7 +53,8 @@ We used 4 model metrics to pick our final model. Accuracy, Precision, Recall and
 
 
 # Contributions
-
+* Exploratory data Analysis - Bryan and Qi Bin
+* Machine Learning Models - S Jivaganesh
 
 # References
 * https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
