@@ -7,7 +7,7 @@ Team 8 Lab A137 Final Code Submission
 
 "cancer.csv" is the CSV file of our dataset
 
-#Exploratory Data Analysis
+# Exploratory Data Analysis
 1. Data Cleaning
 2. Data visualisation
 3. Heatmap and correlation
