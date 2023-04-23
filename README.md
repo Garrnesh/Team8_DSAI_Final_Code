@@ -42,6 +42,7 @@ We used 4 model metrics to pick our final model. Accuracy, Precision, Recall and
 * https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
 * https://www.bmj.com/content/353/bmj.i2314#:~:text=Principal%20findings,with%20a%20stable%20alcohol%20intake. 
 * https://www.cancer.org/cancer/breast-cancer/about/how-common-is-breast-cancer.html#:~:text=Breast%20cancer%20mainly%20occurs%20in,cancer%20are%20younger%20than%2045. 
+* https://www.cdc.gov/cancer/breast/young_women/bringyourbrave/breast_cancer_young_women/index.htm#:~:text=About%201%20in%208%20women,than%2045%20years%20of%20age.
 
 
 
