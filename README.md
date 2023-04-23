@@ -14,14 +14,14 @@ Our project aims to improve breast cancer prediction on whether the diagnosis is
 # Dataset
 
 
-# Exploratory Data Analysis
+# Exploratory Data Analysis (Contributed by Bryan and Qi Bin)
 1. Data Cleaning
 2. Data visualisation
 3. Heatmap and correlation
 
 We dropped the columns that are unncessary for the training of our models and did standard scaling to scale the larger values so that the models are not dominated by it. We also found out through violin plots of individual variables that those variables with easily separable values could mean that the variables have some predictive power for classification. Through using a heatmap, we also found out which are the highly correlated variables to diagnosis as they are the stronger predictors.
 
-# Machine Learning Models (Contrubtued by S Jivaganesh)
+# Machine Learning Models (Contributed by S Jivaganesh)
 1. Decision Tree
 
 For the decision tree, we used a RandomSearchCV to be able to find the most optimal depth of our tree, so that our model will be able to perform optimally.
