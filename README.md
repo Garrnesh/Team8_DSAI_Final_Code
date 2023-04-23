@@ -1,11 +1,16 @@
 # Team8_DSAI_Final_Code
-Team 8 Lab A137 Final Code Submission
+Lab A137 Team 8 Final Code Submission
 
-"Exploratory_Data_Analysis.ipynb" contains our EDA for our Dataset
+# File Description
 
-"Machine_Learning_Models.ipynb" contains our training of our Machine Learning Models
+Exploratory_Data_Analysis.ipynb:
+contains our EDA for our Dataset.
 
-"cancer.csv" is the CSV file of our dataset
+Machine_Learning_Models.ipynb:
+contains our training of our Machine Learning Models
+
+cancer.csv:
+is the CSV file of our dataset
 
 # Exploratory Data Analysis
 1. Data Cleaning
