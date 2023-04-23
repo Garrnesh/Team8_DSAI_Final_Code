@@ -1,5 +1,5 @@
-# Team8_DSAI_Final_Code
-Lab A137 Team 8 Final Code Submission
+# Lab137_Team8_DSAI_Final_Code
+This is our project on breast cancer prediction.
 
 # File Description
 
