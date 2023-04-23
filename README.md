@@ -3,11 +3,9 @@ This is our project on breast cancer prediction.
 
 # File Description
 
-"Exploratory_Data_Analysis.ipynb" contains out EDA for our Dataset.
-
-"Machine_Learning_Models.ipynb" contains our training of our Machine Learning Models
-
-"cancer.csv" is the CSV file of our dataset.
+1. "Exploratory_Data_Analysis.ipynb" contains out EDA for our Dataset.
+2. "Machine_Learning_Models.ipynb" contains our training of our Machine Learning Models
+3. "cancer.csv" is the CSV file of our dataset.
 
 # Dataset
 
